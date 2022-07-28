@@ -1,0 +1,25 @@
+
+
+{
+	"sEmptyTable":     "داده ای برای نمایش در جدول موجود نیست",
+	"sInfo":           "درحال نمایش _START_ تا _END_ از _TOTAL_ رکورد",
+	"sInfoEmpty":      "درحال نمایش 0 تا 0 از 0 رکورد",
+	"sInfoFiltered":   "(فیلتر از _MAX_ تعداد رکوردها)",
+	"sInfoPostFix":    "",
+	"sInfoThousands":  ",",
+	"sLengthMenu":     "نمایش _MENU_ رکوردها",
+	"sLoadingRecords": "درحال بارگزاری...",
+	"sProcessing":     "درحال پردازش...",
+	"sSearch":         "جست و جو:",
+	"sZeroRecords":    "رکوردی برای نمایش وجود ندارد",
+	"oPaginate": {
+		"sFirst":    "نخست",
+		"sLast":     "پایان",
+		"sNext":     "بعدی",
+		"sPrevious": "قبلی"
+	},
+	"oAria": {
+		"sSortAscending":  ": مرتب سازی از بالا به پایین ",
+		"sSortDescending": ": مرتب سازی از پایین به بالا"
+	}
+}
